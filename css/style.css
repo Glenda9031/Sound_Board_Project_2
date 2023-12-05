@@ -20,7 +20,7 @@ body {
 .btn {
     background-color: rebeccapurple;
     border-radius: .3125rem;
-    border: 0;
+    border: none;
     color: #fff;
     margin: 1rem;
     padding: 1.5rem 3rem;
